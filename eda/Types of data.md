@@ -1,0 +1,1 @@
+structured data is organized  data that neatly fits into rows and columns in tables.  Semi-structured data is still  organized and has clear properties and values,  but there's variety to the data.  Unstructured data doesn't fit neatly into tables,  nor does it have a schema.
