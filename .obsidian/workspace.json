@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4d2ed85f35727ed4",
+        "id": "2eddd6d3fd4eb6d9",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e044537c1b1f2e",
+            "id": "57e099641621eb01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "aws/AWS DATA ENGINEER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4f07c40f8984546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7f47d7e17b2ae1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "airfl.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "airfl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "airfl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +149,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "airfl.md"
+              }
+            }
+          },
+          {
+            "id": "09138d0ddfeb050e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -138,37 +179,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8e044537c1b1f2e",
+  "active": "e7f47d7e17b2ae1a",
   "lastOpenFiles": [
-    "ALI_ABDAL_30_day/Ali Abdaal DAY 1.md",
-    "Tasks/AutoSQl/Bard.md",
-    "BPLan_Templet_ys.md",
-    "gl/Unsuprivised_learning.md",
-    "gl/Supervised_Learning_Regression.md",
+    "Untitled 2.md",
+    "airfl.md",
+    "aws/AWS DATA ENGINEER.md",
+    "Ultimate Big Data program.md",
+    "AWS STARTUP BADGE.md",
+    "AWS CC PREP.md",
     "gl/Supervised_Learning_Classification.md",
+    "Attachment'/Pasted image 20240208233311.png",
+    "gl/Exploratory_Data_Analysis.md",
     "gl/Numpy_Pandas_Visualization.md",
     "gl/Python.md",
     "gl/SQL.md",
     "gl/Statistics.md",
-    "gl/Exploratory_Data_Analysis.md",
-    "PYSPARK_STUDPLAN.md",
-    "resume.md",
-    "Stock_algo_materials.md",
-    "aws/AWSa.md",
-    "p-value.md",
-    "Attachment'/Pasted image 20231230232402.png",
-    "ALI_ABDAL_30_day/Ali Abdaal day 2.md",
-    "ALI_ABDAL_30_day/Ali Abdaal DAY 3.md",
-    "ALI_ABDAL_30_day/Ali Abdaal day 6.md",
-    "ALI_ABDAL_30_day/Ali Abdal _plan templet.md",
-    "ALI_ABDAL_30_day/Ali Abdal day 4.md",
+    "gl/Supervised_Learning_Regression.md",
+    "TCS iON NPT - MLDS.md",
+    "tcs_ion.md",
+    "ACTIVE.md",
+    "Untitled 1.md",
     "ALI_ABDAL_30_day/Ali_adbaal Day 5.md",
+    "Untitled.md",
+    "ALI_ABDAL_30_day/Ali Abdaal.md",
+    "ALI_ABDAL_30_day/Ali_abdal_day_7.md",
     "ALI_ABDAL_30_day/ALI_AB  Productivity workshop.md",
+    "ALI_ABDAL_30_day/Ali Abdal day 4.md",
+    "ALI_ABDAL_30_day/Ali Abdal _plan templet.md",
+    "ALI_ABDAL_30_day/Ali Abdaal Day 7.md",
+    "ALI_ABDAL_30_day/Ali Abdaal day 6.md",
+    "Attachment'/unnamed.png",
+    "Attachment'/Pasted image 20231230232402.png",
     "Untitled.canvas",
-    "Untitled 2.md",
     "ALI_ABDAL_30_day",
-    "dse1.md",
-    "dse.md",
     "Attachment'/Pasted image 20231228005822.png",
     "gl",
     "pandas",
@@ -178,11 +221,9 @@
     "heatmap-calendar-obsidian-master/github-images/heatmap-calendar-howto1.png",
     "heatmap-calendar-obsidian-master/github-images/heatmap_examples_dark.gif",
     "heatmap-calendar-obsidian-master/github-images/animated_examples_top3.gif",
-    "heatmap-calendar-obsidian-master/github-images/heatmap-calendar-examples-bottom3.png",
     "eda",
     "aws",
     "Tasks/AutoSQl",
-    "Attachment'/Pasted image 20231228005537.png",
     "Attachment'",
     "Azure",
     "Tasks"
